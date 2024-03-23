@@ -2,6 +2,7 @@
 .DS_Store
 *.sqlite3
 *.pyc
+*.pypirc
 artifacts/test/nosetests*
 artifacts/coverage/
 .coverage

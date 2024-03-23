@@ -1,0 +1,3 @@
+{
+    "output": "usage: testthing [-h] string\n\npositional arguments:\n  string      With RawTextFormatter , these newlines won't be deleted.\n\noptions:\n  -h, --help  show this help message and exit\n"
+}

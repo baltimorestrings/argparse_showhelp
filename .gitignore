@@ -1,0 +1,36 @@
+.idea
+.DS_Store
+*.sqlite3
+*.pyc
+artifacts/test/nosetests*
+artifacts/coverage/
+.coverage
+.coveragerc
+/cover
+
+# Sphinx build files
+/build
+
+# Build temp files
+/dist
+/*.egg-info
+
+# Tox files
+/.tox
+
+# Virtualenv stuff
+v/
+v?/
+v??/
+v??/
+venv/
+
+tags
+tags.lock
+
+cobertura.xml
+nosetests*.xml
+
+*egg*
+
+t.py
